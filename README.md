@@ -9,13 +9,6 @@
 <br />
 <hr/>
 
-
-## My stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devandrews)](https://github.com/devandrews/github-readme-stats)
-
-<br />
-<hr />
-
 ### Some techs I work with
 
 <div style="display: inline-block">
