@@ -1,7 +1,9 @@
-### Hello I'm Andrews Patrick - aka devandrews
+## Hello I'm Andrews Patrick
 
 - 💻 I’m currently improving my MERN stack, Typescript, GraphQL, React Native, and some other skills. Im trying to reach Advanced/Fluency in English as well.
+
 - 📚 I’m learning Clean Archicterure, S.O.L.I.D and soft skills.
+
 - ⚡ Fun fact: When I'm not developing for job, I'm learning for myself, because programming is like a hobbie to me too. It's great when you can work with what you like.
 
 <hr/>
@@ -10,7 +12,7 @@
 
 <hr />
 
-## Techs
+### Techs
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="40" height="40"/>  
@@ -43,8 +45,8 @@
 
 <hr />
 
-## Contact
-<div style="display: flex; justify-content: space-between">
+### Contact
+<div>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=developer.andrews@gmail.com&su=See%20you%20in%20Github&body=I%20want%20to%20hire%20you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
