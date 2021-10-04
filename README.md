@@ -43,7 +43,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="40" height="40"/>
 </div>
 
+<br />
 <hr />
+<br />
 
 ### How to contact me
 <div>
