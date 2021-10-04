@@ -1,4 +1,4 @@
-## Hello I'm Andrews Patrick
+## 🖖🏼 Hello I'm Andrews Patrick
 
 - 💻 I’m currently improving my MERN stack, Typescript, GraphQL, React Native, and some other skills. Im trying to reach Advanced/Fluency in English as well.
 
@@ -12,7 +12,7 @@
 
 <hr />
 
-### Techs
+### Some techs I work with
 
 <div style="display: inline-block">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"  width="40" height="40"/>  
@@ -45,7 +45,7 @@
 
 <hr />
 
-### Contact
+### How to contact me
 <div>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=developer.andrews@gmail.com&su=See%20you%20in%20Github&body=I%20want%20to%20hire%20you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -57,3 +57,5 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
   </a>
 </div>
+
+<hr />
