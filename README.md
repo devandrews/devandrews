@@ -6,11 +6,15 @@
 
 - ⚡ Fun fact: When I'm not developing for my job, I'm learning for myself, because programming is like a hobbie to me. It's great when you can work with what you like 🎉.
 
+<br />
 <hr/>
+<br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devandrews)](https://github.com/devandrews/github-readme-stats)
 
+<br />
 <hr />
+<br />
 
 ### Some techs I work with
 
@@ -60,4 +64,4 @@
   </a>
 </div>
 
-<hr />
+
