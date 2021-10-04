@@ -4,7 +4,7 @@
 
 - 📚 I’m learning Clean Archicterure, S.O.L.I.D and soft skills.
 
-- ⚡ Fun fact: When I'm not developing for job, I'm learning for myself, because programming is like a hobbie to me too. It's great when you can work with what you like.
+- ⚡ Fun fact: When I'm not developing for my job, I'm learning for myself, because programming is like a hobbie to me too. It's great when you can work with what you like 🎉.
 
 <hr/>
 
@@ -50,6 +50,10 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=developer.andrews@gmail.com&su=See%20you%20in%20Github&body=I%20want%20to%20hire%20you" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+  <a href="https://api.whatsapp.com/send?phone=5551999249389&text=Hey!%20I%20want%20to%20hire%20you" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/andrews_patrick_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>  
+  </a>
 </div>
