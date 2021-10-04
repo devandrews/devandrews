@@ -1,4 +1,4 @@
-## 🖖🏼 Hello I'm Andrews Patrick
+## 🖖🏼 Welcome, I'm Andrews Patrick
 
 - 💻 I’m currently improving my MERN stack, Typescript, GraphQL, React Native, and some other skills. Im trying to reach Advanced/Fluency in English as well.
 
