@@ -1,10 +1,6 @@
 ## 🖖🏼 Welcome, I'm Andrews Patrick
 
-- 💻 I’m currently improving my MERN stack, Typescript, GraphQL, React Native, and some other skills. Im trying to reach Advanced/Fluency in English as well.
-
-- 📚 I’m learning Clean Archicterure, S.O.L.I.D and soft skills.
-
-- ⚡ Fun fact: When I'm not developing for my job, I'm learning for myself, because programming is like a hobbie to me. It's great when you can work with what you like 🎉.
+- ⚡ Fun fact: When I'm not developing for my job, I'm learning for myself, because programming is like a hobbie to me. It's great when you can work with the things you like 🎉.
 
 <br />
 <hr/>
